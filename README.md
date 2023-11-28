@@ -4,16 +4,16 @@ Welcome to XO Game, a classic tic-tac-toe game implemented in [Dart/Flutter]. En
 
 ## Features
 
-💎 Play the timeless tic-tac-toe game against another player.
-💎 Simple and intuitive gameplay suitable for all ages.
-💎 Interactive board to place X or O marks.
-💎 Automatic detection of winning combinations.
-💎 Clear and visual indication of game results.
+- 💎 Play the timeless tic-tac-toe game against another player.
+- 💎 Simple and intuitive gameplay suitable for all ages.
+- 💎 Interactive board to place X or O marks.
+- 💎 Automatic detection of winning combinations.
+- 💎 Clear and visual indication of game results.
 
 ## Tech Stack
 
-💠 **Language**: Dart
-💠 **Framework**: Flutter
+- 💠 **Language**: Dart
+- 💠 **Framework**: Flutter
 
 ## Demo
 https://github.com/laila-gaber/X-O_GAME/assets/68399601/3ed90925-6f8d-4fdb-ad6d-6abfca8059f3
