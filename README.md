@@ -1,16 +1,24 @@
-# x_o_game
+# XO Game
 
-A new Flutter application.
+Welcome to XO Game, a classic tic-tac-toe game implemented in [Dart/Flutter]. Enjoy a simple yet engaging gaming experience!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Play the timeless tic-tac-toe game against another player.
+- Simple and intuitive gameplay suitable for all ages.
+- Interactive board to place X or O marks.
+- Automatic detection of winning combinations.
+- Clear and visual indication of game results.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Language**: Dart
+- **Framework**: Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+https://github.com/laila-gaber/X-O_GAME/assets/68399601/3ed90925-6f8d-4fdb-ad6d-6abfca8059f3
+
+## My Tutorial
+
+Learn more about this project in my tutorial:
+https://youtu.be/XAEBI3xOiGI?feature=shared
